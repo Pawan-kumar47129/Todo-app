@@ -6,9 +6,13 @@
 }
 .main{
     margin-top: 2rem;
+    text-align: center;
 }
 #main-title{
     columns: #fff;
     text-align: center;
-
+}
+.datalist{
+    display: grid;
+    grid-template-columns: 200px 100px 50px;
 }
